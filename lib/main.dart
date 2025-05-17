@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:healthu/routes/desafios_routes.dart';
-import 'package:healthu/screens/desafios_screen.dart';
 
 void main() {
   runApp(const MyApp());
